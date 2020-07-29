@@ -46,12 +46,21 @@ Lastly, an attempt to predict what will happen to the custom portfolio and the F
 
    #### Information Technology
 
+    ![IT](image/tech.jpg)
+
+    *www.freepik.com*
+
    The technology industry is well positioned to ride out the crisis. Technology firms will likely need to evaluate impacts on three fronts: supply chain, market demand and employees.  
    In the short-term, supply disruption will reduce manufacturing and assembly capacity, plant reopenings will be further delayed by lags in component supply, and travel bans will exacerbate workforce shortages and consumer demand. The good news is High tech companies are set up for remote work more than other industries and so will suffer less of a workplace culture shock.
 
    The shift to working from home with the help of digital collaboration tools is likely to drive demand for High tech in many categories. A growing need for infrastructure to support this shift, like cloud computing for business or increased broadband consumption for consumers, will be a boon to the industry.
 
    #### Healthcare
+   
+   ![Healthcare](image/healthcare.jpg)
+
+   *www.freepik.com*
+
 
    The Health Care Sector encompasses two main industry groups. The first includes companies who manufacture health care equipment and supplies or provide health care related services. The second group of companies are primarily involved in the research, development, production and marketing of pharmaceuticals and biotechnology products.
 
@@ -60,6 +69,10 @@ Lastly, an attempt to predict what will happen to the custom portfolio and the F
    However, the industry impact will be mild compared to disruptions in certain other sectors. Drugmakers whose products are effective against COVID-19 will benefit financially. It is expected that there will be greater investment in pandemic prevention to help the industry in coming years.
    
    #### Communication Services
+
+   ![Telecom](image/telecom.jpg)
+
+   *www.freepik.com*
    
    The pandemic has demonstrated the critical importance of the integration of telecommunications infrastructure within workplaces by keeping businesses, governments, and societies connected and running. The communications sector has remained “mission-critical” to keep economies moving under the lockdown in at least three different ways: 
 
@@ -71,17 +84,29 @@ Lastly, an attempt to predict what will happen to the custom portfolio and the F
 
    #### Financials
 
+   ![Financials](image/financials.jpg)
+
+   *www.freepik.com*
+
    Central banks are expected to keep rates low or negative for several more years, which has the potential to reduce banks’ profits and labour needed. The outcome of reduced interest rates, business activity, and large scale non-performing loans, has the potential to become a significant contributing factor to a prolonged recession. The IMF chief has called the current business environment “recessionary”.
 
    The pandemic will accelerate the shift to digital processes and services for both consumers and firms. The COVID-19 crisis is an opportunity for banks to show they understand their customers and are committed to helping them deal with its impacts, building stronger, enduring, trust-based relationships. The trend is for re-bundling multiple banking, payments, and investment services to monetize customer acquisition costs. ‍
 
    #### Energy
 
+   ![Energy](image/energy.jpg)
+
+   *www.freepik.com*
+
    Between February 2020 and March 2020 the petroleum industry had experienced a 40% drop in price due to the outbreak; however, it was not the only factor contributing to the sharp international decline of oil prices. Saudi Arabia and Russia were not able to resolve the dispute of whether or not to cut back on oil production to match the decreasing demand of gas.
    
    Due to a lack of demand from travel restrictions, and without the decrease of production, the Oil and Gas industry was drastically impacted. Many countries rely on petroleum revenue just as much as energy companies do; both these dependents have been facing disaster with labour lay-offs, decrease in family income, drop in employment and less household spending.
  
 3. How has COVID19 affected the Fintech space?
+
+   ![Fintech](image/fintech.jpg)
+
+   *www.freepik.com*
 
     There are major differences and nuances in how fintech sub-sectors respond to a distressed market. Analysis indicates that lending fintechs would suffer the biggest drop (lower valuations, slower funding), followed by capital markets.
 
@@ -214,3 +239,23 @@ https://finance.yahoo.com/news/where-p-500-2030-heres-193118911.html
 https://www.investopedia.com/articles/personal-finance/022216/put-10000-sp-500-etf-and-wait-20-years.asp
 
 https://primexbt.com/blog/s-p-500-price-prediction-forecast/
+
+https://thefinancialbrand.com/96254/covid-19-impact-future-fintech-banking/
+
+https://www.kaggle.com/gauravarena/canada-covid-19-impact-analysis
+
+https://www.pwc.com/us/en/library/covid-19/coronavirus-technology-impact.html
+
+https://www2.deloitte.com/global/en/pages/about-deloitte/articles/covid-19/understanding-covid-19-s-impact-on-the-technology-sector-.html
+
+https://www.marketdataforecast.com/blog/impacts-of-covid19-on-information-technology-industry
+
+https://www.investmentexecutive.com/news/research-and-markets/the-financial-industry-will-be-fundamentally-transformed-by-covid-19/
+
+https://www.tcs.com/content/dam/tcs/pdf/Industries/Banking%20and%20Financial%20Services/COVID-19-Crisis-Implications-for-financial-services-industry.pdf
+
+https://www2.deloitte.com/global/en/pages/about-deloitte/articles/covid-19/covid-19-s-impact-on-banking---capital-market-institutions-.html
+
+https://www.cbinsights.com/research/fintech-covid-outlook/
+
+https://www.accenture.com/_acnmedia/PDF-126/Accenture-COVID-19-Communications-Media-Industry-Report-5.pdf
