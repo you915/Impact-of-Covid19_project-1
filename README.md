@@ -130,7 +130,7 @@ Lastly, an attempt to predict what will happen to the custom portfolio and the F
 
    | Company               | Ticker  | Weight  |
    |-----------------------| --------|---------|
-   |Microsoft Corporation  | MSFT    |  50%    |
+   |Microsoft Corporation  | MSFT    |  40%    |
    |JP Morgan Chase & Co.  | JPM     |  20%    |
    |Exxon Mobil Corporation| XOM     |  20%    |
    |Pfizer Inc.            | PFE     |  10%    |
