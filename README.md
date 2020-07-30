@@ -48,7 +48,7 @@ Lastly, an attempt to predict what will happen to the custom portfolio and the F
 
     ![IT](image/tech.jpg)
 
-    *www.freepik.com*
+    Source: *www.freepik.com*
 
    The technology industry is well positioned to ride out the crisis. Technology firms will likely need to evaluate impacts on three fronts: supply chain, market demand and employees.  
    In the short-term, supply disruption will reduce manufacturing and assembly capacity, plant reopenings will be further delayed by lags in component supply, and travel bans will exacerbate workforce shortages and consumer demand. The good news is High tech companies are set up for remote work more than other industries and so will suffer less of a workplace culture shock.
@@ -59,7 +59,7 @@ Lastly, an attempt to predict what will happen to the custom portfolio and the F
    
    ![Healthcare](image/healthcare.jpg)
 
-   *www.freepik.com*
+   Source: *www.freepik.com*
 
 
    The Health Care Sector encompasses two main industry groups. The first includes companies who manufacture health care equipment and supplies or provide health care related services. The second group of companies are primarily involved in the research, development, production and marketing of pharmaceuticals and biotechnology products.
@@ -72,7 +72,7 @@ Lastly, an attempt to predict what will happen to the custom portfolio and the F
 
    ![Telecom](image/telecom.jpg)
 
-   *www.freepik.com*
+   Source: *www.freepik.com*
    
    The pandemic has demonstrated the critical importance of the integration of telecommunications infrastructure within workplaces by keeping businesses, governments, and societies connected and running. The communications sector has remained “mission-critical” to keep economies moving under the lockdown in at least three different ways: 
 
@@ -86,7 +86,7 @@ Lastly, an attempt to predict what will happen to the custom portfolio and the F
 
    ![Financials](image/financials.jpg)
 
-   *www.freepik.com*
+   Source: *www.freepik.com*
 
    Central banks are expected to keep rates low or negative for several more years, which has the potential to reduce banks’ profits and labour needed. The outcome of reduced interest rates, business activity, and large scale non-performing loans, has the potential to become a significant contributing factor to a prolonged recession. The IMF chief has called the current business environment “recessionary”.
 
@@ -96,7 +96,7 @@ Lastly, an attempt to predict what will happen to the custom portfolio and the F
 
    ![Energy](image/energy.jpg)
 
-   *www.freepik.com*
+   Source: *www.freepik.com*
 
    Between February 2020 and March 2020 the petroleum industry had experienced a 40% drop in price due to the outbreak; however, it was not the only factor contributing to the sharp international decline of oil prices. Saudi Arabia and Russia were not able to resolve the dispute of whether or not to cut back on oil production to match the decreasing demand of gas.
    
@@ -106,7 +106,7 @@ Lastly, an attempt to predict what will happen to the custom portfolio and the F
 
    ![Fintech](image/fintech.jpg)
 
-   *www.freepik.com*
+   Source: *www.freepik.com*
 
     There are major differences and nuances in how fintech sub-sectors respond to a distressed market. Analysis indicates that lending fintechs would suffer the biggest drop (lower valuations, slower funding), followed by capital markets.
 
@@ -178,21 +178,21 @@ Lastly, an attempt to predict what will happen to the custom portfolio and the F
 
     ![FINX Simulation](image/FINX_10years.JPG)
 
-    Based on the simulations the target price for FINX after 10 years at a 90% confidence interval would be in the range of $39.13 - $429.86. The median price being $130.30 giving a return of 272.39% from the current price of $34.99(July 28, 2020)
+    Based on the simulations the target price for FINX after 10 years at a 90% confidence interval would be in the range of $40.69 - $539.93. The median price being $286.56 giving a return of 718.98% from the current price of $34.99(July 28, 2020)
 
     ![S&P 500 Simulation](image/sp500_10years.JPG)
 
-    Based on the simulations, the target for S&P 500 after 10 years at a 90% confidence interval would be in the range of 3,063.24 - 6,375.67. The median being 4,239.52 giving a return of 31.73% from the current level of 3,218.44(July 28, 2020) 
+    Based on the simulations, the target for S&P 500 after 10 years at a 90% confidence interval would be in the range of 2,484.59 - 10,045.66. The median being 5,696.54 giving a return of 77% from the current level of 3,218.44(July 28, 2020) 
 
     ![Custom Portfolio Simulation](image/monte_carlo.JPG)
 
-    Based on the simulations the returns for Custom Portfolio after 10 years at a 90% confidence interval would be in the range of 2.10% - 20.62%. The median being 6.27%.
+    Based on the simulations the returns for Custom Portfolio after 10 years at a 90% confidence interval would be in the range of 2.19% - 20.04%. The median being 6.93%.
 
     #### Actions to take before the next crash:
     
-    One needs to have cash ready for 3 things:
+    How can we get ready for another major event? We can do that by keeping cash ready for 3 important things:
 
-    - **Emergency Savings**:  Recessions, job losses, illnesses, natural disasters, and a litany of other things can happen unexpectedly. In addition to having appropriate kinds of and amounts of insurance, you should aim to have cash savings that can cover six or more months of basic living expenses.
+    - **Emergency Savings**:  Recessions, job losses, illnesses, natural disasters, and a lot of other things can happen unexpectedly. In addition to having appropriate kinds of and amounts of insurance, you should aim to have cash savings that can cover six or more months of basic living expenses.
 
     - **Expected expenses**: While your emergency savings is preparing for unexpected near-term needs, one should also prepare your portfolio for those expected needs coming up soon. Investments away from stocks and into high-quality bonds. The goal is having a few years' expenses in these low-volatility assets before you need them.
 
@@ -200,7 +200,12 @@ Lastly, an attempt to predict what will happen to the custom portfolio and the F
     
     Investing half this cash when stocks fall 10% from a recent high, investing half of the remaining cash when stocks fall 20% and the rest at the 30% drop.
 
-    Stock market history shows that we see 10% declines about once every year or two, 20% declines about once every five to seven years; a 30% decline has happened only six times in the past 70 years. Going by history, one can use this probability to take advantage of future downturns in the market.
+    Stock market history shows that we see 10% declines about once every year or two, 20% declines about once every five to seven years; a 30% decline has happened only six times. Going by history, one can use this probability to take advantage of future downturns in the market.
+
+    **S&P 500 Historical Annual Returns**
+
+     ![S&P500 Historical](image/sp-500-historical-annual-returns.png)
+     Source: *https://www.macrotrends.net/2526/sp-500-historical-annual-returns*
 
 ### Data Used for Analysis
 
